@@ -1,0 +1,31 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://ardux.io
+title: ardux
+email: "humans[at]ardux[dot]io"
+description: "A project and community dedicated to one handed and accessible keyboards"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: discord
+    icon: discord
+    url: https://discord.gg/fGUjnUuAVQ
+  - title: github
+    icon: github
+    url: https://github.com/arduxio
+  - title: knowledge base
+    icon: book
+    url: https://ardux.info
