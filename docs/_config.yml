@@ -4,8 +4,8 @@
 
 url: https://ardux.io
 title: ardux
-email: "humans[at]ardux[dot]io"
-description: "A project and community dedicated to one handed and accessible keyboards"
+email: "n/a"
+description: "a one handed keyboard project"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,6 +26,3 @@ social:
   - title: github
     icon: github
     url: https://github.com/arduxio
-  - title: knowledge base
-    icon: book
-    url: https://ardux.info
