@@ -26,3 +26,6 @@ social:
   - title: github
     icon: github
     url: https://github.com/arduxio
+  - title: docs
+    url: https://inkeys.wiki/en/keymaps/ardux
+    icon: book
