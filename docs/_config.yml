@@ -20,12 +20,16 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: discord
-    icon: discord
-    url: https://discord.gg/fGUjnUuAVQ
-  - title: github
-    icon: github
-    url: https://github.com/arduxio
-  - title: docs
-    url: https://inkeys.wiki/en/keymaps/ardux
-    icon: book
+  - line:
+    - title: github
+      fa: -brands
+      icon: github
+      url: https://github.com/arduxio
+    - title: docs
+      url: https://inkeys.wiki/en/keymaps/ardux
+      icon: book
+  - line:
+    - title: community forum & chat (zulip)
+      fa: -brands
+      icon: circle-zulip
+      url: https://inkeys.zulipchat.com/#narrow/channel/573025-00-Rules-.26-Server-Info
